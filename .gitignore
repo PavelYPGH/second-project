@@ -18,6 +18,8 @@ __pycache__/
 *.bak
 *.swp
 
+.ipynb_checkpoints
+
 # Системные файлы
 Thumbs.db  # Windows
 .DS_Store  # macOS
