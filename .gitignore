@@ -22,4 +22,6 @@ __pycache__/
 
 # Системные файлы
 Thumbs.db  # Windows
+desktop.ini
+
 .DS_Store  # macOS
